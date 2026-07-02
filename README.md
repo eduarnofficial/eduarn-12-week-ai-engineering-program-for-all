@@ -113,6 +113,62 @@ You will:
 ├── notes/
 ├── datasets/
 └── README.md
+🎥 Learning Philosophy (From Our YouTube Series)
 
-By @LearnWithEduArn https://youtube.com/channel/UCFPKmoUcn0NUh4YIdGjRLYw?sub_confirmation=1
-Contact Us: www.eduarn.com
+This program is based on the idea:
+
+“Knowing tools is not enough. You must understand how they fit into real AI systems.”
+
+We use practical examples like:
+
+Student performance prediction
+MLflow experiment tracking
+Real-world model deployment
+AI automation pipelines
+🚀 Capstone Project
+
+At the end of 12 weeks, you will build:
+
+💡 End-to-End AI System
+Data ingestion pipeline
+ML model training
+MLflow tracking
+Model registry
+API deployment
+AI chatbot / agent interface
+🎯 Who This Program Is For
+
+✔ Beginners entering AI/ML
+✔ Software engineers transitioning to AI
+✔ Data science aspirants
+✔ Professionals preparing for MLOps roles
+✔ Anyone serious about AI careers
+
+📺 Related YouTube Video
+
+🎥 Do You Really Know the Tools You Mention on Your Resume?
+
+This repository supports the full learning journey covered in our Eduarn YouTube series.
+
+🎓 Eduarn 12-Week AI Program
+
+This repository is part of the Eduarn AI Engineering Bootcamp.
+
+We help learners become industry-ready AI Engineers, not just certificate holders.
+
+🌐 Join Us
+
+👉 Website: https://www.eduarn.com
+👉 Program: 12-Week AI Engineering Bootcamp
+
+⭐ Support
+
+If you find this helpful:
+
+⭐ Star this repository
+🔁 Share with learners
+📢 Join the program
+💬 Follow for updates
+🔥 Final Message
+
+Don’t just learn AI tools. Learn how to build AI systems.
